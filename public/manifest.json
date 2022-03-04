@@ -1,0 +1,41 @@
+{
+  "short_name": "BQMS",
+  "name": "Babcock Queue Management System",
+  "description": "Book appointment with administrative offices and break the waiting time.",
+  "icons": [
+    {
+      "src": "icon/logo12.png",
+      "type": "image/png",
+      "sizes": "12x12"
+    },
+    {
+      "src": "icon/logo24.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "icon/logo32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "icon/logo64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "icon/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#47B685",
+  "background_color": "#ffffff"
+}
